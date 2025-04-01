@@ -9,7 +9,7 @@ const app = express();
 
 // ===== Configuration =====
 const config = {
-    MONGO_URI: 'mongodb+srv://pubghearbeat:kcP5tdwI37zri3bR@clusterforcodethereper.60yo9.mongodb.net/?retryWrites=true&w=majority&appName=clusterforcodethereper',
+    MONGO_URI: 'mongodb+srv://Nexora:7Ib1bRpd3RtXe0nV@galaxycluster01.8pz68zq.mongodb.net/CodereperDB?retryWrites=true&w=majority&appName=Galaxycluster01',
     JWT_SECRET: 'e4b8e6b83a2d4c3499a6d9fb1d4580e4d77b31a25887a5b0fcb6a1c7f62f4091',
     FRONTEND_URL: 'http://localhost:3000',
     PORT: 5000
